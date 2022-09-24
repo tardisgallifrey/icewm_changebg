@@ -1,6 +1,6 @@
 # Nodejs app to change background in ICEWM
 <hr/>
-### A Nodejs application to change background image in ICE window manager
+<h3>A Nodejs application to change background image in ICE window manager</h3>
 <p>ICEWM, ICE window manager is a useful way to reduce memory use in linux 
 distributions.  However, ICE comes with little to no simple methods for doing many desktop tasks.</p>
 <p>I recently changed my Fedora laptop to ICEWM. Though I knew the manager from running AntiX in the past, I realized AntiX had more desktop tasks set up than plain ICEWM.  One can change the background image in a configuration file ($HOME/.icwem/menu) or with the icewembg command. I prefer something simpler than a long complicated command.</p>
