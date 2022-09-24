@@ -1,0 +1,17 @@
+{
+  "name": "background",
+  "version": "1.0.1",
+  "description": "An app to change desktop backgrounds",
+  "main": "icechngbg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dave",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.8.0"
+  },
+  "bin" : {
+    "execute" : "icechngbg.js"
+} 
+}
